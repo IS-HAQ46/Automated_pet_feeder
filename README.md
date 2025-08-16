@@ -36,9 +36,15 @@ Log the feeding event and prepare for the next scheduled feeding
 ## Repository Structure
 
 /Automated_pet_feeder
+
 │── README.md               # Project description
+
 │── Step1_Analysis/         # Problem statement, assumptions, inputs/outputs
+
 │── Step2_Data/             # Organized data table
+
 │── Step3_Flowchart/        # Flowchart files (PNG/PDF)
+
 │── Step4_Word_Code/        # Word coding sequence
+
 │── Step5_Testing/          # Test scenarios and results

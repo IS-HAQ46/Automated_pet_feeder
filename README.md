@@ -7,7 +7,7 @@ This project is a low-cost, programmable automated pet feeder designed for cats 
 
 The main goal of this project is to design and simulate the logic and behaviour of the feeder system, which could later be implemented using affordable components like servo motors and sensors.
 
-#Features
+## Features
 
 Dispenses food at scheduled times
 
@@ -21,7 +21,7 @@ Logs all feeding events
 
 Updates display with current and next feeding times
 
-#Usage
+## Usage
 
 Check the dispenser status before starting
 
@@ -33,7 +33,7 @@ Monitor consumption for 20 minutes and send alerts if necessary
 
 Log the feeding event and prepare for the next scheduled feeding
 
-Repository Structure
+## Repository Structure
 /Automated_pet_feeder
 │── README.md               # Project description
 │── Step1_Analysis/         # Problem statement, assumptions, inputs/outputs

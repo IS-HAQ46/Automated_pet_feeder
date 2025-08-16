@@ -27,13 +27,14 @@ Check the dispenser status before starting
 
 Display current time, scheduled feeding time, and food level
 
-Dispense food in controlled portions until target bowl weight is reached
+Dispense food in controlled portions until the target bowl weight is reached
 
 Monitor consumption for 20 minutes and send alerts if necessary
 
 Log the feeding event and prepare for the next scheduled feeding
 
 ## Repository Structure
+
 /Automated_pet_feeder
 │── README.md               # Project description
 │── Step1_Analysis/         # Problem statement, assumptions, inputs/outputs
